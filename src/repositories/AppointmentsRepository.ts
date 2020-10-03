@@ -20,7 +20,7 @@ class AppointmentsRepository {
      * @param date Date
      */
     public create({ provider, date }: CreateAppointmentDTO): Appointment {
-        const appointment = new Appointment(provider, date);
+        const appointment = new Appointment({ provider, date });
         this.appointments.push(appointment);
         return appointment;
     }
