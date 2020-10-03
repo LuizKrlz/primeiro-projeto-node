@@ -1,8 +1,6 @@
 import { Router } from "express";
-import { uuid } from "uuidv4";
-import { startOfHour, parseISO, isEqual } from "date-fns";
+import { startOfHour, parseISO } from "date-fns";
 
-import Appointment from "../models/Appointment";
 import AppointmentsRepository from "../repositories/AppointmentsRepository";
 
 const appointmentsRouter = Router();
