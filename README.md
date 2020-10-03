@@ -20,15 +20,21 @@ yarn install
 yarn dev:server
 ```
 
+## Classes
+
+- initial structure
+- Learning to debug application
+
 ## Author
 
-* Website: https://www.linkedin.com/in/luizcarlosrochacorrea/
-* Github: [@LuizKrlz](https://github.com/LuizKrlz)
-* LinkedIn: [@luizcarlosrochacorrea](https://linkedin.com/in/luizcarlosrochacorrea)
+- Website: https://www.linkedin.com/in/luizcarlosrochacorrea/
+- Github: [@LuizKrlz](https://github.com/LuizKrlz)
+- LinkedIn: [@luizcarlosrochacorrea](https://linkedin.com/in/luizcarlosrochacorrea)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
